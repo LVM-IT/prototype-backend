@@ -6,8 +6,8 @@
   "scripts": {
     "start": "node server.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "LVM Versicherung",
+  "license": "MIT",
   "dependencies": {
     "body-parser": "1.15.0",
     "cors": "^2.7.1",
