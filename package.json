@@ -9,7 +9,7 @@
   "author": "LVM Versicherung",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "1.15.0",
+    "body-parser": "1.17.2",
     "cors": "^2.7.1",
     "express": "^4.13.4"
   }
