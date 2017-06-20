@@ -1,5 +1,7 @@
 # Prototype backend
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/LVM-IT/prototype-backend.svg)](https://greenkeeper.io/)
+
 ## Prerequisites
 
 ```
